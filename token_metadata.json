@@ -2,5 +2,14 @@
   "name": "NEXA",
   "symbol": "NEXA",
   "description": "The NEXA Token, designed for AI, tech, and sophisticated investors.",
-  "image": "https://raw.githubusercontent.com/Asalym/NEXA-Assets/main/NEXA.png"
+  "image": "https://raw.githubusercontent.com/Asalym/NEXA-Assets/main/NEXA.png",
+  "sellerFeeBasisPoints": 0,
+  "creators": [
+    {
+      "address": "EtDLEw2pfMzR9yxUoAGHp1Jku7kogQb5dMbv3MHeR6F3",
+      "share": 100
+    }
+  ],
+  "collection": null,
+  "uses": null
 }
